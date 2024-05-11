@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164096463367",
+    "project_id": "loanmobileapp",
+    "storage_bucket": "loanmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164096463367:android:dcabb56f8e5408b5c590a2",
+        "android_client_info": {
+          "package_name": "com.example.loanmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapFAdsWiDwPefL-VrsGy76kDK22WbaDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
